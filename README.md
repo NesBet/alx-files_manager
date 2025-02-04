@@ -1,6 +1,6 @@
 # Files manager  
 
-This project is a summary of this back-end trimester: Authentication, NodeJS, MongoDB, Redis, Pagination and background processing.
+This project is a summary of this back-end trimester: Authentication, NodeJS, MongoDB, Redis, Pagination and Background Processing.
 
 The objective is to build a simple platform for uploading and viewing files:
 ##
